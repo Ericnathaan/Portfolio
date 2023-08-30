@@ -12,6 +12,8 @@
     background-size: cover;
     background-position: center;
     background-color: #191919;
+    
+
 }
 
 .caixa-principal a{
@@ -30,8 +32,16 @@ nav{
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 25px;
+    position: fixed;
+    width: 100%;
+    background-color: #191919;
+    z-index: 1;
+   
+
 
 }
+
+
 
 .portifolio{
     color: white;
